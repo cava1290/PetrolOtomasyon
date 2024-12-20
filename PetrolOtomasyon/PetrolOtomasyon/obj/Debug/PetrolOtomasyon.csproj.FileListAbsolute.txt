@@ -1,0 +1,13 @@
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\bin\Debug\PetrolOtomasyon.exe.config
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\bin\Debug\PetrolOtomasyon.exe
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\bin\Debug\PetrolOtomasyon.pdb
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.Form1.resources
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.KayitForm.resources
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.Properties.Resources.resources
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.exe
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.pdb
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.PompaForm.resources
+C:\Users\yusuf\source\repos\PetrolOtomasyon\PetrolOtomasyon\obj\Debug\PetrolOtomasyon.SubeCalisaniForm.resources
